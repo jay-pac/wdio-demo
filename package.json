@@ -9,7 +9,8 @@
     "@wdio/spec-reporter": "^8.15.0",
     "chromedriver": "^115.0.0",
     "supertest": "^6.3.3",
-    "wdio-chromedriver-service": "^8.1.1"
+    "wdio-chromedriver-service": "^8.1.1",
+    "wdio-geckodriver-service": "^5.0.2"
   },
   "scripts": {
     "wdio": "wdio run ./wdio.conf.js"
